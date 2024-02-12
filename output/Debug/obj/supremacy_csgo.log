@@ -1,0 +1,2 @@
+﻿F:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Katalog Intermediate nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Intermediate.
+LINK : fatal error LNK1104: nie można otworzyć pliku „E:\lo4de$$tryoer\output\Debug\csgocheat.dll”
