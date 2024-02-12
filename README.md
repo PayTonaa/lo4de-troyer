@@ -1,7 +1,7 @@
 # supremacy
 
 
-## CSGO cheat made for 2018 hvh Feel free to use the cheat and if you want you can also contribute to the project.
+## CSGO cheat made for 2018 hvh Feel free to use the cheat and if you want you can also contribute to the project. // my implementation for that ( doesnt work anymore XD ) 
 
 
 
