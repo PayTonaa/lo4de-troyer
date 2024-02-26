@@ -35,8 +35,8 @@ void HVH::AntiAimPitch() {
 		break;
 
 	case 5:
-		//AUTISM
-		g_cl.m_cmd->m_view_angles.x = g_csgo.RandomFloat(safe ? 83.f : 720.f, safe ? 87.f : 720.f);
+		//AUTISM new
+		g_cl.m_cmd->m_view_angles.x = g_csgo.RandomFloat(safe ? 77.f : 720.f, safe ? 89.f : 720.f);
 		break;
 
 	default:
